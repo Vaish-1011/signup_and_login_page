@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  place-items: center;
+  height: 100vh;
+  background: linear-gradient(rgb(166, 247, 209),rgb(243, 240, 85));
+
+}
+code{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
